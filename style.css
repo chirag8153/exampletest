@@ -1,0 +1,11 @@
+PFA the xml file and templates you would need to start with the tool development. I have created the files only for the Com module. Once we have the tool developed for the Com module and if there are any problems/suggestions I will create the other files for the PduR and CanIf.
+
+The folder structure is explained below.
+XML - contains the xml with which to generate the GUI
+generated_config_files_sample - sample files which have been created manually. These are for your reference.
+template - These files contain the configuration + instructions about how the configuration files have to be generated.
+
+If anything is unclear let me know. We can also have a short meeting once you go through the files and if there are any questions.
+
+Regards,
+Veeresh
