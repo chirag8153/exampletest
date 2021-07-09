@@ -1,5 +1,5 @@
  
-   id main(String args[]){  
+    main(String args[]){  
      System.out.println("Hello Java");  
     }  
 }  
