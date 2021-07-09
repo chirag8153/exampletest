@@ -1,6 +1,6 @@
 //Java Program to demonstrate the use of break statement    
 //inside the for loop.  
-reakExample {  
+
 public static void main(String[] args) {  
     //using for loop  
     for(int i=1;i<=10;i++){  
